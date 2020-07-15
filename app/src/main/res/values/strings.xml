@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Googlepay</string>
+    <string name="name">Name</string>
+    <string name="upi_id">UPI ID</string>
+    <string name="amount">Amount</string>
+    <string name="note">Note</string>
+    <string name="pay_now">Pay Now</string>
+    <string name="vivugitdev">Vivugitdev</string>
+    <string name="status">status</string>
+</resources>
